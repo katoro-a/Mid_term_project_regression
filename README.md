@@ -1,4 +1,15 @@
-# Mid_term_project_regression
+# Mid_term_project_regression 
+
+![photo](https://github.com/Ironhack-Data-0621-Remote/Project_FIFA_MoneyBall/blob/main/Images/photo.jpg)
+
+## Objective
+------------------------------------------------------------------- 
+- clean a housing data set set and create a regression model on the prices of the properties 
+
+
+
+- in seattle washington, and some of the surrounding area 
+
 ## Analyzing house prices 
 2014-2015 price fluctuations 
 - https://www.forbes.com/sites/billconerly/2014/02/19/how-bad-is-the-housing-market-a-forecast-update-for-2014-2015/?sh=7065d5616217 
