@@ -7,7 +7,7 @@
 Use the regression data set to predict the price of homes in the area. The data set includes property prices from 2014-2015 of individual houses, zipcodes are provided as well as other stats about the houses themselves, layout, condition and the grade.
 - data set is of seattle washington and the surrounding area  
 
-![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/b83226f8325a50a070f6c673dce9134fe30c26b0/download.jpg)
+![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/a4fa5581d223507a8e6a513c87a1ad31ac919ace/Screen%20Shot%202021-12-04%20at%205.09.25%20PM.png)
 
 
 
