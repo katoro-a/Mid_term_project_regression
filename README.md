@@ -44,20 +44,41 @@ Libraries:
 13. pandas 
 
 Workflow 
-1. Gather the Data 
-2. Explore the Data
-3. Clean the Data
-  4.numerical data:
+  - Gather the Data 
+  - Explore the Data
+  - Clean the Data 
+    - check for duplicates
+    - drop any columns that wont contribute to the model 
+    - check the dtypes of the columns 
+    - check for nans  
+  - Histograms of all the columns 
+    - check to see if you can convert the column to a standard normal distribution
+    - chi2??
+  - Boxplots
+    - check to see if some of the outliers need to be cleaned 
+    - apply a filter 
+    - or calculate the iqr, then the upper and lower limits and filter out the uneeded data points 
+   numerical data:  
+      - scale the numerical data
+  
+  
+  
+  
+# Results and conclusions 
+    The accuracy of the model generated was .....
+  
  -----------------------------------------------------------------------------------   
-- Id: Unique identification number for the property.
-- date: date the house was sold.
-- price: price of the house.
-- waterfront: house which has a view to a waterfront.
-- condition: How good the condition is (overall). 1 indicates worn out property and 5 excellent.
-- grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
-- Sqft_above: square footage of house apart from basement.
-- Sqft_living15: Living room area in 2015(implies - some renovations). This might or might not have affected the lotsize area.
-- Sqft_lot15: lotSize area in 2015(implies - some renovations).
+ The data set inclludes:
+
+- **Id:** Unique identification number for the property.
+- **date:** date the house was sold.
+- **price:** price of the house.
+- **waterfront:** house which has a view to a waterfront.
+- **condition:** How good the condition is (overall). 1 indicates worn out property and 5 excellent.
+- **grade:** Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
+- **Sqft_above:** square footage of house apart from basement.
+- **Sqft_living15:** Living room area in 2015(implies - some renovations). This might or might not have affected the lotsize area.
+- **Sqft_lot15:** lotSize area in 2015(implies - some renovations).
 
 
 
