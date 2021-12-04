@@ -6,7 +6,7 @@
 ------------------------------------------------------------------- 
 - clean a housing data set set and create a regression model on the prices of the properties 
 - data set is of seattle washington, and some of the surrounding area  
-- time period covered is between 2014 
+- time period covered is between 2014-2015
 
 ## Analyzing house prices 
 2014-2015 price fluctuations 
