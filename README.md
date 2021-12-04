@@ -59,7 +59,10 @@ Workflow
     - apply a filter 
     - or calculate the iqr, then the upper and lower limits and filter out the uneeded data points 
    numerical data:  
-      - scale the numerical data
+      - scale the numerical data 
+  - Train test split 
+  - correlation matrix 
+    - remove any columns with a value higher than .
   
   
   
