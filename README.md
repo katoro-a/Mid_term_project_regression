@@ -1,14 +1,12 @@
 # Mid_term_project_regression 
 
-![photo](https://github.com/Ironhack-Data-0621-Remote/Project_FIFA_MoneyBall/blob/main/Images/photo.jpg)
+![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/b83226f8325a50a070f6c673dce9134fe30c26b0/download.jpg)
 
 ## Objective
 ------------------------------------------------------------------- 
 - clean a housing data set set and create a regression model on the prices of the properties 
-
-
-
-- in seattle washington, and some of the surrounding area 
+- data set is of seattle washington, and some of the surrounding area  
+- time period covered is between 2014 
 
 ## Analyzing house prices 
 2014-2015 price fluctuations 
@@ -22,3 +20,42 @@
   
  - https://en.wikipedia.org/wiki/Timeline_of_the_United_States_housing_bubble#2015
   - mid year : ** do some background reading on what these stats mean 
+
+## Used tools 
+----------------------------------------------------
+Programs: 
+1. Jupiter - python  
+2. mysql
+3. tableau  
+
+Libraries: 
+1. Normalizer
+2. StandardScaler
+3. confusion_matrix
+4. cohen_kappa_score
+5. math
+6. statistics 
+7. matplotlib.pyplot
+8. seaborn
+9. statsmodels.api
+10. train_test_split
+11. one hot encoder
+12. numpy
+13. pandas 
+
+Workflow 
+1. Gather the Data 
+2. Explore the Data
+3. Clean the Data
+  4.numerical data:
+    
+
+
+
+
+
+
+
+
+
+
