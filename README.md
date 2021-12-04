@@ -13,27 +13,29 @@ Use the regression data set to predict the price of homes in the area. The data 
 
 
 
-## Used tools 
+# Used tools 
 ----------------------------------------------------
 Programs: 
-1. Jupiter - python  
-2. mysql
-3. tableau  
 
-Libraries: 
-1. Normalizer
-2. StandardScaler
-3. confusion_matrix
-4. cohen_kappa_score
-5. math
-6. statistics 
-7. matplotlib.pyplot
-8. seaborn
-9. statsmodels.api
-10. train_test_split
-11. one hot encoder
-12. numpy
-13. pandas 
+  1. Jupiter - python  
+  2. MYSQL workbench
+  3. Tableau  
+Methods:
+  1. Logistic Regression
+  2. Histograms, box-whisker plots  
+
+  Libraries: 
+
+  1. StandardScaler
+  2. confusion_matrix
+  3. cohen_kappa_score See if you should apply this to your model 
+  4. statistics 
+  5. matplotlib.pyplot
+  6. seaborn
+  7. statsmodels.api
+  8. train_test_split
+  9. numpy
+  10. pandas 
 
 Workflow 
   - Gather the Data 
@@ -56,13 +58,22 @@ Workflow
     - remove any columns with a value higher than .8
  
   - Train test split 
+  - 
  
   
   
   
   
 # Results and conclusions 
-    The accuracy of the model generated was .....
+    The accuracy of the model generated was 0.7 and the Kappa of the model is : ***********. It correctly guages 
+    the price of the property ........% of the time. 
+    Not sure that this model would accuratly predict values outside of the years given, since the market it based on outside factors like weather, supply and demand, how the economy is currenlty doing that year. 
+    
+![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/a4fa5581d223507a8e6a513c87a1ad31ac919ace/Screen%20Shot%202021-12-04%20at%205.09.25%20PM.png)    
+    
+    
+    
+    
     2014-2015 price fluctuations 
 
 
