@@ -69,7 +69,7 @@ Workflow
     the price of the property ........% of the time. 
     Not sure that this model would accuratly predict values outside of the years given, since the market it based on outside factors like weather, supply and demand, how the economy is currenlty doing that year. 
     
-![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/a4fa5581d223507a8e6a513c87a1ad31ac919ace/Screen%20Shot%202021-12-04%20at%205.09.25%20PM.png)    
+![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/0512e244d48627e39157e7b48138a8d56b259dc8/Screen%20Shot%202021-12-04%20at%205.22.29%20PM.png)    
     
     
     
