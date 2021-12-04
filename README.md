@@ -1,25 +1,17 @@
-# Mid_term_project_regression 
+# Mid_term_project_regression / Analyzing house prices 
 
 ![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/b83226f8325a50a070f6c673dce9134fe30c26b0/download.jpg)
 
 ## Objective
 ------------------------------------------------------------------- 
-- clean a housing data set set and create a regression model on the prices of the properties 
-- data set is of seattle washington, and some of the surrounding area  
-- time period covered is between 2014-2015
+Use the regression data set to predict the price of homes in the area. The data set includes property prices from 2014-2015 of individual houses, zipcodes are provided as well as other stats about the houses themselves, layout, condition and the grade.
+- data set is of seattle washington and the surrounding area  
 
-## Analyzing house prices 
-2014-2015 price fluctuations 
-- https://www.forbes.com/sites/billconerly/2014/02/19/how-bad-is-the-housing-market-a-forecast-update-for-2014-2015/?sh=7065d5616217 
-- look for info on this years specifically to see why there were price fluctuations and outside factors that might be affecting the market 
-  - note that januarys prices were lower due to bad weather('How Bad Is The Housing Market? A Forecast Update for 2014-2015')
-    - this is reflected in the graphs displayed in Tableau 
--https://www.usatoday.com/story/money/business/2014/01/01/home-prices-2014-housing-starts/4181021/
-  - housing market recovering in 2013 
-  - rising mortgage interest rates in 2014  
-  
- - https://en.wikipedia.org/wiki/Timeline_of_the_United_States_housing_bubble#2015
-  - mid year : ** do some background reading on what these stats mean 
+![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/b83226f8325a50a070f6c673dce9134fe30c26b0/download.jpg)
+
+
+
+
 
 ## Used tools 
 ----------------------------------------------------
@@ -60,15 +52,36 @@ Workflow
     - or calculate the iqr, then the upper and lower limits and filter out the uneeded data points 
    numerical data:  
       - scale the numerical data 
+   - correlation matrix 
+    - remove any columns with a value higher than .8
+ 
   - Train test split 
-  - correlation matrix 
-    - remove any columns with a value higher than .
+ 
   
   
   
   
 # Results and conclusions 
     The accuracy of the model generated was .....
+    2014-2015 price fluctuations 
+
+
+
+
+
+
+# Background info of the time period 
+- https://www.forbes.com/sites/billconerly/2014/02/19/how-bad-is-the-housing-market-a-forecast-update-for-2014-2015/?sh=7065d5616217 
+- look for info on this years specifically to see why there were price fluctuations and outside factors that might be affecting the market 
+  - note that januarys prices were lower due to bad weather('How Bad Is The Housing Market? A Forecast Update for 2014-2015')
+    - this is reflected in the graphs displayed in Tableau 
+-https://www.usatoday.com/story/money/business/2014/01/01/home-prices-2014-housing-starts/4181021/
+  - housing market recovering in 2013 
+  - rising mortgage interest rates in 2014  
+  
+ - https://en.wikipedia.org/wiki/Timeline_of_the_United_States_housing_bubble#2015
+  - mid year : ** do some background reading on what these stats mean 
+
   
  -----------------------------------------------------------------------------------   
  The data set inclludes:
