@@ -69,7 +69,7 @@ Use the regression data set to predict the price of homes in the area. The data 
     - r^2
   - KNN
   - MLPRegressor 
-  - Kappa Score 
+ 
 
   
 # Results and conclusions 
