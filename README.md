@@ -5,7 +5,7 @@
 ## Objective
 ------------------------------------------------------------------- 
 Use the regression data set to predict the price of homes in the area. The data set includes property prices from 2014-2015 of individual houses, zipcodes are provided as well as other stats about the houses themselves, layout, condition and the grade.
-- data set is of seattle washington and the surrounding area  
+- Data set is of seattle washington and the surrounding area  
 
 ![photo](https://github.com/katoro-a/Mid_term_project_regression/blob/a4fa5581d223507a8e6a513c87a1ad31ac919ace/Screen%20Shot%202021-12-04%20at%205.09.25%20PM.png)
 
@@ -17,7 +17,7 @@ Use the regression data set to predict the price of homes in the area. The data 
 ----------------------------------------------------
 ## Programs: 
 
-  1. Jupiter - python  
+  1. Jupiter Notebook - python  
   2. MYSQL workbench
   3. Tableau : https://public.tableau.com/shared/782BXWCK7?:display_count=n&:origin=viz_share_link
 
@@ -26,7 +26,7 @@ Use the regression data set to predict the price of homes in the area. The data 
   2. Histograms, box-whisker plots  
   3. KNN
   4. MPLRegressor
-  5. Kappa Score 
+
 
   ## Libraries: 
 
@@ -51,7 +51,6 @@ Use the regression data set to predict the price of homes in the area. The data 
     - check for nans  
   - Histograms of all the columns 
     - check to see if you can convert the column to a standard normal distribution
-    - chi2??
   - Boxplots
     - check to see if some of the outliers need to be cleaned 
     - apply a filter 
